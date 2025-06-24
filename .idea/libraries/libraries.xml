@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libraries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../farmingmanagement.zip!/farmingmanagement/.idea/libraries" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/../../farmingmanagement.zip!/farmingmanagement/.idea/libraries" recursive="false" />
+  </library>
+</component>
