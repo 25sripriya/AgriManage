@@ -6,9 +6,9 @@ import java.sql.SQLException;
 public class con {
 
     // Database URL, username, and password
-    private static final String URL = "jdbc:mysql://localhost:3306/+farmerdata";
-    private static final String USER = "root";
-    private static final String PASSWORD = "25Sripriya02@";
+    private static final String URL = "your url";
+    private static final String USER = "your username";
+    private static final String PASSWORD = "your password";
 
     // Method to establish the database connection
     public static Connection getConnection() {
